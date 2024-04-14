@@ -1,0 +1,3 @@
+#0x11-what_happens_when_your_type_google_com_in_your_browser_and_press_enter
+
+ON THIS VERY BRIEF PROJECT I WILL BE TAKING YOU ON A JOURNEY OF DETALED EXPLANATION OF what_happens_when_your_type_google_com_in_your_browser_and_press_enter
